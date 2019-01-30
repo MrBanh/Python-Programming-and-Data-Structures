@@ -1,4 +1,4 @@
-# SJCC - CIS-024C - Python
+# SJCC - CIS-024C - Python Programming
 ###### My projects from "Revel Introduction to Programming and Data Structures" by Y. Daniel Liang
 
 - **Chapter 1 - Introduction to Computers, Programs, and Python**
