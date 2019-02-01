@@ -2,6 +2,7 @@
 ###### My projects from "Revel Introduction to Programming and Data Structures" by Y. Daniel Liang
 
 - **Chapter 1 - Introduction to Computers, Programs, and Python**
+    - [End of Chapter Completed Exercises] (https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2001)
 
 - **Chapter 2 - Elementary Programming**
 
