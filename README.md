@@ -5,9 +5,10 @@
     - [End of Chapter Completed Exercises](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2001)
 
 - **Chapter 2 - Elementary Programming**
-    - [End of Chapter Compelted Exercises](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2002)
+    - [End of Chapter Completed Exercises](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2002)
 
 - **Chapter 3 - Selections**
+    - [End of Chapter Completed Exercises](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2003)
 
 - **Chapter 4 - Mathematical Functions, Strings, and Objects**
 
