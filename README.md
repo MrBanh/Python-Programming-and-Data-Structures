@@ -1,16 +1,17 @@
 # SJCC - CIS-024C - Python Programming
-###### My projects from "Revel Introduction to Programming and Data Structures" by Y. Daniel Liang
+###### Exercises and Programming Projects from "Revel Introduction to Programming and Data Structures" by Y. Daniel Liang
 
 - **Chapter 1 - Introduction to Computers, Programs, and Python**
-    - [End of Chapter Completed Exercises](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2001)
+    - [Chapter Completed Programming Projects](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2001)
 
 - **Chapter 2 - Elementary Programming**
-    - [End of Chapter Completed Exercises](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2002)
+    - [Chapter Completed Programming Projects](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2002)
 
 - **Chapter 3 - Selections**
-    - [End of Chapter Completed Exercises](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2003)
+    - [Chapter Completed Programming Projects](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2003)
 
 - **Chapter 4 - Mathematical Functions, Strings, and Objects**
+    - [Chapter Completed Programming Projects](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2004)
 
 - **Chapter 5 - Loops**
 
