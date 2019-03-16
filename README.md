@@ -18,7 +18,7 @@
 - **Chapter 6 - Functions**
     - [Chapter Completed Programming Projects](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2006)
 - **Chapter 7 - Lists**
-    - [Chapter Completed Programming Projects]
+    - [Chapter Completed Programming Projects](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2007)
 - **Chapter 8 - Multidimensional Lists**
     - [Chapter Completed Programming Projects]
 - **Chapter 9 - Objects and Classes**
