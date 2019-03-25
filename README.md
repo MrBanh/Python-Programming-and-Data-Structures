@@ -1,5 +1,5 @@
-# SJCC - CIS-024C - Python Programming
-###### Exercises and Programming Projects from "Revel Introduction to Programming and Data Structures" by Y. Daniel Liang
+# Python Programming and Data Structures
+###### Exercises and Programming Projects from "Revel Introduction to Python Programming and Data Structures" by Y. Daniel Liang
 
 - **Chapter 1 - Introduction to Computers, Programs, and Python**
     - [Chapter Completed Programming Projects](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2001)
