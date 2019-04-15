@@ -26,7 +26,7 @@
 - **Chapter 10 - Basic GUI Programming Using Tkinter**
     - [Chapter Completed Programming Projects](https://github.com/MrBanh/Python-Programming-and-Data-Structures/tree/master/Chapter%2010)
 - **Chapter 11 - Advanced GUI Programming Using Tkinter**
-    - [Chapter Completed Programming Projects]
+    - [Chapter Completed Programming Projects](https://github.com/MrBanh/Python-Programming-and-Data-Structures/tree/master/Chapter%2011)
 - **Chapter 12 - Inheritance and Polymorphism**
     - [Chapter Completed Programming Projects]
 - **Chapter 13 - Files and Exception Handling**
