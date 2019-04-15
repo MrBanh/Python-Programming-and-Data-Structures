@@ -5,7 +5,7 @@
     - [Chapter Completed Programming Projects](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2001)
 
 - **Chapter 2 - Elementary Programming**
-    - [Chapter Completed Programming Projects](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2002)
+    - [Chapter Completed Programming ProjeP6SL3Z
 
 - **Chapter 3 - Selections**
     - [Chapter Completed Programming Projects](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2003)
