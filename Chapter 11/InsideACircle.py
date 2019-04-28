@@ -35,13 +35,15 @@ class InsideACircle:
 
         # Bind <B1-Motion> (left click hold and drag) to canvas
         self.canvas.bind("<B1-Motion>", self.process_mouse_event)
+        # Bind <Button-1> (left click) to canvas
+        self.canvas.bind("<Button-1>", self.process_mouse_event)
 
         window.mainloop()
 
     def process_mouse_event(self, event):
         # If mouse is within circle
         if (self.center_x - self.radius) <= event.x <= (self.center_x + self.radius)\
-        and (self.center_y - self.radius) <= event.y <= (self.center_y + self.radius):
+                and (self.center_y - self.radius) <= event.y <= (self.center_y + self.radius):
             self.canvas.delete("text")
             self.canvas.create_text(event.x, event.y - 10, tags="text",
                                     text="Mouse pointer is in the circle")
