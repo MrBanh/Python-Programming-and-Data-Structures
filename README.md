@@ -30,7 +30,7 @@
 - **Chapter 12 - Inheritance and Polymorphism**
     - [Chapter Completed Programming Projects](https://github.com/MrBanh/Python-Programming-and-Data-Structures/tree/master/Chapter%2012)
 - **Chapter 13 - Files and Exception Handling**
-    - [Chapter Completed Programming Projects]
+    - [Chapter Completed Programming Projects](https://github.com/MrBanh/Python-Programming-and-Data-Structures/tree/master/Chapter%2013)
 - **Chapter 14 - Tuples, Sets, and Dictionaries**
     - [Chapter Completed Programming Projects]
 - **Chapter 15 - Recursion**
