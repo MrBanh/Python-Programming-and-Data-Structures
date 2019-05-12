@@ -5,7 +5,7 @@
     - [Chapter Completed Programming Projects](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2001)
 
 - **Chapter 2 - Elementary Programming**
-    - [Chapter Completed Programming ProjeP6SL3Z
+    - [Chapter Completed Programming Projects](https://github.com/MrBanh/Python-Programming-and-Data-Structures/tree/master/Chapter%2002)
 
 - **Chapter 3 - Selections**
     - [Chapter Completed Programming Projects](https://github.com/MrBanh/SJCC-CIS024C-Python/tree/master/Chapter%2003)
@@ -32,7 +32,7 @@
 - **Chapter 13 - Files and Exception Handling**
     - [Chapter Completed Programming Projects](https://github.com/MrBanh/Python-Programming-and-Data-Structures/tree/master/Chapter%2013)
 - **Chapter 14 - Tuples, Sets, and Dictionaries**
-    - [Chapter Completed Programming Projects]
+    - [Chapter Completed Programming Projects](https://github.com/MrBanh/Python-Programming-and-Data-Structures/tree/master/Chapter%2014)
 - **Chapter 15 - Recursion**
     - [Chapter Completed Programming Projects]
 - **Chapter 16 - Developing Efficient Algorithms**
