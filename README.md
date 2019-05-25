@@ -36,4 +36,4 @@
 - **Chapter 15 - Recursion**
     - [Chapter Completed Programming Projects](https://github.com/MrBanh/Python-Programming-and-Data-Structures/tree/master/Chapter%2015)
 - **Chapter 16 - Developing Efficient Algorithms**
-    - [Chapter Completed Programming Projects]
+    - [Chapter Completed Programming Projects](https://github.com/MrBanh/Python-Programming-and-Data-Structures/tree/master/Chapter%2016)
